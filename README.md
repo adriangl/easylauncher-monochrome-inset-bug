@@ -1,0 +1,1 @@
+# easylauncher-monochrome-inset-bug
